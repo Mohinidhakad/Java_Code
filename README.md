@@ -1,2 +1,2 @@
-# JavaScript_Code
-Code repo for JavaScript learning revision. 
+# Java_Code
+Code repo for Java learning . 
